@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhika-jain
-- 👀 I’m interested in development
-- 🌱 I’m currently learning competitive programming
-- 💞️ I’m looking to collaborate on software developmet roles
+- 👀 I’m interested in development and Data Analytics
+- 🌱 I’m currently coompleting my Masters in Data Analaytics at Clark University
+- 💞️ I’m looking to collaborate on Analytical roles
 - 📫 How to reach me : linkedin https://www.linkedin.com/in/shubhika-j/
 
 <!---
